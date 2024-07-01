@@ -1,0 +1,15 @@
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\bin\Debug\net8.0\calc-cSharp.exe
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\bin\Debug\net8.0\calc-cSharp.deps.json
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\bin\Debug\net8.0\calc-cSharp.runtimeconfig.json
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\bin\Debug\net8.0\calc-cSharp.dll
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\bin\Debug\net8.0\calc-cSharp.pdb
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.AssemblyInfo.cs
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.sourcelink.json
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.dll
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\refint\calc-cSharp.dll
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.pdb
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\calc-cSharp.genruntimeconfig.cache
+C:\Users\emrek\Desktop\calc-cSharp\calc-cSharp\calc-cSharp\obj\Debug\net8.0\ref\calc-cSharp.dll
